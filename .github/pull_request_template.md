@@ -5,7 +5,7 @@ What this PR changes, in one or two sentences.
 Closes #
 
 ## How I tested it
-- [ ] 
+- [ ]
 
 ## Checklist
 - [ ] Tests added or updated
